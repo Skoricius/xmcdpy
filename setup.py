@@ -21,6 +21,7 @@ setup(
         'matplotlib>=3.4.1',
         'scikit-image>=0.18.1',
         'scipy>=1.6.2',
-        "opencv-python>=4.4.0.44"
+        "opencv-python>=4.4.0.44",
+        "PyQt5>=5.15.4"
     ]
 )
