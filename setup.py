@@ -10,10 +10,11 @@ if os.path.exists('README.md'):
 
 setup(
     name='XMCDpy',
-    version='1.2.0',
+    version='1.2.2',
     packages=find_packages(include=['xmcdpy']),
     description='Library for processing XMCD images',
     long_description=long_description,
+    long_description_content_type='text/markdown',
     author='Luka Skoric',
     license='GNU GENERAL PUBLIC LICENSE',
     install_requires=[

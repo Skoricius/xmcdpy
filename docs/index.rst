@@ -6,7 +6,7 @@
 Links
 ==========
 .. toctree::
-   XMCD Projection On Github <http://github.com/skoricius/xmcdpy>
+   XMCDpy On Github <http://github.com/skoricius/xmcdpy>
 
 Install
 ==========
