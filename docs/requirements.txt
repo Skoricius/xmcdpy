@@ -4,6 +4,7 @@ scipy
 networkx
 recommonmark
 sphinx
+nbsphinx
 jupyter
 sphinx_rtd_theme
 pyopenssl
