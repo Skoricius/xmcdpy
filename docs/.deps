@@ -7,12 +7,13 @@ autopep8==1.5.3
 Babel==2.9.0
 backcall==0.1.0
 bleach==3.1.5
+build==0.5.1
 cached-property==1.5.2
 certifi==2020.12.5
 cffi==1.14.5
 chardet==3.0.4
 click==7.1.2
-colorama==0.3.7
+colorama==0.4.4
 commonmark==0.9.1
 conda==4.10.1
 conda-package-handling==1.7.0
@@ -50,7 +51,7 @@ hjson==3.0.2
 idna==2.9
 imageio==2.8.0
 imagesize==1.2.0
-importlib-metadata==1.6.0
+importlib-metadata==4.6.1
 inflection==0.5.1
 ipykernel==5.2.1
 ipython==7.14.0
@@ -58,6 +59,7 @@ ipython-genutils==0.2.0
 ipywidgets==7.5.1
 itsdangerous==1.1.0
 jedi==0.17.0
+jeepney==0.7.0
 Jinja2==2.11.2
 joblib==1.0.1
 jq==1.0.0
@@ -74,6 +76,7 @@ jupyter-latex-envs==1.4.6
 jupyter-nbextensions-configurator==0.4.1
 jupyterlab==2.1.2
 jupyterlab-server==1.1.1
+keyring==23.0.1
 kiwisolver==1.2.0
 latexcodec==2.0.1
 llvmlite==0.36.0
@@ -112,12 +115,14 @@ pandoc==1.0.2
 pandocfilters==1.4.2
 parso==0.7.0
 pbr==5.4.5
+pep517==0.10.0
 petsc4py==3.12.0
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==7.1.2
 pinject==0.14.1
 pkgconfig==1.4.0
+pkginfo==1.7.1
 ply==3.11
 podfox==0.1.2
 prometheus-client==0.7.1
@@ -164,16 +169,20 @@ qiskit-terra==0.16.1
 qtconsole==4.7.3
 QtPy==1.9.0
 Quandl==3.5.3
+readme-renderer==29.0
 recommonmark==0.7.1
 requests==2.25.1
 requests-ntlm==1.1.0
+requests-toolbelt==0.9.1
 retworkx==0.7.2
+rfc3986==1.5.0
 ruamel-yaml==0.15.87
 scikit-image==0.18.1
 scikit-learn==0.22.2.post1
 scipy==1.6.2
 scooby==0.5.6
 seaborn==0.10.1
+SecretStorage==3.3.1
 Send2Trash==1.5.0
 six==1.15.0
 sklearn==0.0
@@ -200,6 +209,7 @@ tornado==6.0.4
 tqdm==4.46.0
 traitlets==4.3.3
 trimesh==3.9.14
+twine==3.4.1
 urllib3==1.25.9
 virtualenv==20.0.32
 vtk==9.0.1
@@ -208,7 +218,7 @@ webencodings==0.5.1
 websockets==8.1
 Werkzeug==1.0.1
 widgetsnbextension==3.5.1
--e git+git@github.com:Skoricius/xmcd-projection.git@4ee8d83230e378b2cf7f4d39696eb89e13ac0585#egg=XMCD_Projection
--e git+git@github.com:Skoricius/xmcdpy.git@c434ddf9fb70737ebf4366d13212c68d298023cf#egg=XMCDpy
+-e git+git@github.com:Skoricius/xmcd-projection.git@ba2c3cbc5b58f4207279051fbc8edfb58317139e#egg=XMCD_Projection
+-e git+git@github.com:Skoricius/xmcdpy.git@d5ee948cb69bd38b43c0967abe1946bc3a96d762#egg=XMCDpy
 yfinance==0.1.55
 zipp==3.1.0
