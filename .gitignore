@@ -9,11 +9,7 @@
 !examples/**/*.tiff
 !examples/*.tiff
 .vscode/**
-docs/xmcdpy*
-docs/examples.*.rst
-docs/README.*
 docs/_static/examples/*
-docs/.deps
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

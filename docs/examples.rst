@@ -1,12 +1,12 @@
 Examples
 =====================
 
-A few examples are available as rendered IPython notebooks.
+An example is rendered as IPython notebook.
 
 
-Example XMCD/PEEM processing workflow
-''''''''''''''''''''''''''
+.. toctree::
+   :includehidden:
 
-`XMCD/PEEM processing <examples/xmcd_processing.html>`_
+   examples/xmcd_processing.ipynb
 
 
